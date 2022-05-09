@@ -5,7 +5,7 @@
 mkdir cadence
 ```
 
-### **_Clone the example Cadence and Cassandra example workflow_** 
+### **_Clone the Cadence and Cassandra example workflow_** 
 ```
 git clone https://github.com/Anant/example-cassandra-cadence-workflow.git
 ```
